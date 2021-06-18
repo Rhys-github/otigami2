@@ -1,0 +1,36 @@
+h2{
+    color :rgb(36, 22, 224);
+    border-color: "red" ;
+    
+}
+
+
+
+body{
+    background-color: rgb(94, 20, 20);
+}
+ 
+p{
+    color:rgb(82, 82, 82);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly ; 
+}
+
+
+
+
+
+
+p,h2{
+    text-align: center;
+    text-emphasis-color: #ffffff;
+}
+
+.item *{
+color:white
+}
